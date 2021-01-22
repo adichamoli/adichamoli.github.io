@@ -44,7 +44,7 @@ ul#buttons {
     margin: 0;
     position: absolute;
     top: 50%;
-    left: 20%;
+    left: 25%;
     transform: translate(-20%, -20%);
     list-style: none;
     display: grid;
